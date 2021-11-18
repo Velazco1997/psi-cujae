@@ -13,6 +13,7 @@ Documentación extra útil.
 
 1. Documentación sobre los framework de pruebas y el despliegue de pruebas.
 2. Technical design for Angular apps.
+3. Git cheat sheet education.
 
 ## Documentación online
 
