@@ -21,3 +21,11 @@ Además se proporciona la documentación consultada de forma online para el desa
 [Angular Docs](https://angular.io/docs): Documentación oficial de Angular.  
 [Angular Material:](https://material.angular.io) Libreria de componentes empleada en la aplicación del lado del cliente (_frontend_).  
 [Drupal Org](https://www.drupal.org/project/project_module): Aquí se pueden encontrar módulos para Drupal, CMS en que se basa la plataforma Hontza.
+
+## Enlaces herramientas empleadas
+
+[Project Repo](#TODO)
+[Visual Studio Code](https://code.visualstudio.com/)
+[NodeJS](https://nodejs.org/es/)
+[Git](https://git-scm.com/)
+[Postman](https://www.postman.com/)
