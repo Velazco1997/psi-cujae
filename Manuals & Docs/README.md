@@ -14,6 +14,7 @@ Documentación extra útil.
 1. Documentación sobre los framework de pruebas y el despliegue de pruebas.
 2. Technical design for Angular apps.
 3. Git cheat sheet education.
+4. Protactor Basic Tutorial.
 
 ## Documentación online
 
@@ -22,3 +23,4 @@ Además se proporciona la documentación consultada de forma online para el desa
 [Angular Docs](https://angular.io/docs): Documentación oficial de Angular.  
 [Angular Material:](https://material.angular.io) Libreria de componentes empleada en la aplicación del lado del cliente (_frontend_).  
 [Drupal Org](https://www.drupal.org/project/project_module): Aquí se pueden encontrar módulos para Drupal, CMS en que se basa la plataforma Hontza.
+[Protactor Test Framework](https://protractor.angular.io/): Sitio oficial del framework de pruebas Protactor. Se utiliza para realizar pruebas automatizadas.
