@@ -16,6 +16,7 @@ En este directorio se encuentra toda la documentación asociada al proyecto.
 3. **Angular Unit Testing using Jasmine & Karma**: Como se realizan las pruebas unitarias en Angular paso a paso.
 4. **Protactor Basic Tutorial**: Tutorial sobre los aspectos básicos de protactor para comenzar a implementar pruebas.
 5. **Protactor Complete Guide**: Cubre todos los aspectos para dominar Protactor.
+6. **Testing Angular**: Libro Sobre como realizar pruebas en Angular utilizando buenas prácticas.
 
 ## Documentación online
 
