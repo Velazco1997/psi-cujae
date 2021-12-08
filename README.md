@@ -11,6 +11,6 @@ RoadMap Tareas Pendientes.
 5. Ejecución y evaluación Automatica Protactor.
 6. Despliegue de la solucion en la facultad.
 7. Actualizacion del motor de búsqueda Apache SOLR, actualizar vista de arquitectura.
-8. Documentar el schema de base de datos y relaciones.
+8. Documentar el schema de base de datos y relaciones. ✅
 9. Incorporar el LDAP.
 10. Entidad CUJAE en el frontend.

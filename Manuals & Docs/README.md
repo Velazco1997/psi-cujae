@@ -36,3 +36,7 @@ En este apartado se encuentra la documentación consultada de forma online para 
 3. [NodeJS](https://nodejs.org/es/)
 4. [Git](https://git-scm.com/)
 5. [Postman](https://www.postman.com/)
+
+## Documentación Pública
+
+[Hontza API](https://documenter.getpostman.com/view/11697030/UVJkAt4a)
